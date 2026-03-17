@@ -1,0 +1,53 @@
+{
+  "name": "tech-docs-v1",
+  "queries": [
+    {
+      "id": "q1",
+      "text": "How to configure SSL certificates",
+      "relevant_ids": ["doc-42", "doc-87"],
+      "retrieved_ids": ["doc-87", "doc-15", "doc-42", "doc-99", "doc-03"]
+    },
+    {
+      "id": "q2",
+      "text": "Database connection pooling best practices",
+      "relevant_ids": ["doc-12", "doc-34", "doc-56"],
+      "retrieved_ids": ["doc-34", "doc-78", "doc-12", "doc-90", "doc-56", "doc-11", "doc-22"]
+    },
+    {
+      "id": "q3",
+      "text": "Kubernetes pod autoscaling configuration",
+      "relevant_ids": ["doc-101"],
+      "retrieved_ids": ["doc-55", "doc-101", "doc-200", "doc-33", "doc-44"]
+    },
+    {
+      "id": "q4",
+      "text": "How to set up CI/CD pipelines with GitHub Actions",
+      "relevant_ids": ["doc-201", "doc-202", "doc-203"],
+      "retrieved_ids": ["doc-201", "doc-202", "doc-300", "doc-203", "doc-400"]
+    },
+    {
+      "id": "q5",
+      "text": "Redis caching strategies for microservices",
+      "relevant_ids": ["doc-501", "doc-502"],
+      "retrieved_ids": ["doc-600", "doc-700", "doc-501", "doc-800", "doc-900"]
+    },
+    {
+      "id": "q6",
+      "text": "OAuth 2.0 implementation guide",
+      "relevant_ids": ["doc-301", "doc-302"],
+      "retrieved_ids": ["doc-301", "doc-302", "doc-303", "doc-304", "doc-305"]
+    },
+    {
+      "id": "q7",
+      "text": "GraphQL schema design patterns",
+      "relevant_ids": ["doc-401"],
+      "retrieved_ids": ["doc-999", "doc-998", "doc-997", "doc-401", "doc-996"]
+    },
+    {
+      "id": "q8",
+      "text": "Docker multi-stage build optimization",
+      "relevant_ids": ["doc-601", "doc-602", "doc-603"],
+      "retrieved_ids": ["doc-601", "doc-602", "doc-603", "doc-604", "doc-605"]
+    }
+  ]
+}
